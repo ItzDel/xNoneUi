@@ -26,7 +26,7 @@ end
 			LightContrast = Color3.fromRGB(40,40,40),
 			DarkContrast = Color3.fromRGB(30,30,30),
 			TextColor = Color,
-			ButtonColor = Color3.fromRGB(0, 153, 224),
+			ButtonColor = Color3.fromRGB(30, 30, 30),
 			ToggledColor = Color3.fromRGB(0, 153, 224),
 			SliderColor = Color3.fromRGB(0, 153, 224),
 			TopBarColor = Color3.fromRGB(35,35,35),
