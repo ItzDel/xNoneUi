@@ -19,7 +19,7 @@ end
 		-- themes
 		local objects = {}
 		local themes = {
-			NotToggledColor =  Color3.fromRGB(255, 100, 89),
+			NotToggledColor =  Color3.fromRGB(25,25,25),
 			Background = Color3.fromRGB(25,25,25),
 			Glow = Color3.fromRGB(0,0,0),
 			Accent = Color,
@@ -27,7 +27,7 @@ end
 			DarkContrast = Color3.fromRGB(30,30,30),
 			TextColor = Color,
 			ButtonColor = Color3.fromRGB(30, 30, 30),
-			ToggledColor = Color3.fromRGB(31, 255, 15),
+			ToggledColor = Color3.fromRGB(25,25,25),
 			SliderColor = Color3.fromRGB(0, 153, 224),
 			TopBarColor = Color3.fromRGB(35,35,35),
 		}
