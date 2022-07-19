@@ -288,7 +288,7 @@ end
 								Size = UDim2.new(0,70,0,70),
 								ZIndex = 5,
 								ImageColor3 = Color3.new(1,1,1),
-								Image = "http://www.roblox.com/asset/?id=6802482142",
+								Image = "http://www.roblox.com/asset/?id=10282592992",
 						
 							}),
 					
